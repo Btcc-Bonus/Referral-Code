@@ -25,7 +25,9 @@
 
   <h3>✅ Step-by-Step Guide for New Users:</h3>
   <ol>
-    <li>Go to the official BTCC website: <a href="https://www.btcc.com" target="_blank">https://www.btcc.com</a></li>
+    <li>Go to the official BTCC website:  <a href="https://partner.btcc.com/us/c/BTCCBONUS/9303" target="_blank" style="display:inline-block;background-color:#007bff;color:#fff;padding:12px 24px;text-decoration:none;border-radius:8px;font-weight:bold;">
+  Sign Up on BTCC & Claim Your Bonus
+</a>
     <li>Click "Sign Up" at the top right corner</li>
     <li>Enter your email address or phone number, and set a password</li>
     <li>In the "Referral Code" field, enter: <strong>BTCCBONUS</strong></li>
