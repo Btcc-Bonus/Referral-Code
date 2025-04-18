@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>BTCC Referral Program 2025 – Join Using BTCCBONUS</title>
-  <meta name="description" content="Join the BTCC Referral Program 2025 using the BTCCBONUS code to earn up to 11,000 USDT in trading rewards, 50% fee discounts, and exclusive bonuses for new users.">
-</head>
-<body>
-  <header>
-    <h1>BTCC Referral Program 2025 – Join Using BTCCBONUS for Up to 11,000 USDT in Rewards</h1>
+
+  <h1>BTCC Referral Program 2025 – Join Using BTCCBONUS for Up to 11,000 USDT in Rewards</h1>
   </header>
 
   <section>
